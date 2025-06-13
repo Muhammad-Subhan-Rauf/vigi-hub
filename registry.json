@@ -1,3 +1,17 @@
-[
-  
-]
+{
+  "tools": {
+    "raff/wiki_scraper": {
+      "author": "raff",
+      "description": "A simple tool to scrape and summarize a Wikipedia article.",
+      "url": "https://raw.githubusercontent.com/raff/vigi-extras/main/wiki_scraper.py",
+      "dependencies": ["beautifulsoup4", "requests"]
+    }
+  },
+  "personas": {
+    "jdoe/SarcasticHelper": {
+      "author": "jdoe",
+      "description": "A persona that provides correct answers but with a witty, sarcastic tone.",
+      "url": "https://raw.githubusercontent.com/jdoe/vigi-personas/main/SarcasticHelper.json"
+    }
+  }
+}
