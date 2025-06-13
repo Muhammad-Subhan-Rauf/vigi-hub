@@ -5,6 +5,12 @@
       "description": "A simple tool to scrape the web.",
       "url": "https://raw.githubusercontent.com/Muhammad-Subhan-Rauf/webscraper/main/scrape_the_web.py",
       "dependencies": ["beautifulsoup4", "requests"]
+    },
+    "naumanAhmed3/dns_lookup": {
+      "author": "naumanAhmed3",
+      "description": "A simple tool to geet the dns data.",
+      "url": "https://raw.githubusercontent.com/naumanAhmed3/vigi-tools/main/dns_lookup.py",
+      "dependencies": ["dnspython"]
     }
   },
   "personas": {
