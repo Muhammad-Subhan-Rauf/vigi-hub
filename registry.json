@@ -11,7 +11,15 @@
       "description": "A simple tool to geet the dns data.",
       "url": "https://raw.githubusercontent.com/naumanAhmed3/vigi-tools/main/dns_lookup.py",
       "dependencies": ["dnspython"]
-    }
+    },
+    "Muhammad-Subhan-Rauf/newsScraper": {
+      "author": "Muhammad-Subhan-Rauf",
+      "description": "A simple tool to get the latest news",
+      "url": "https://raw.githubusercontent.com/Muhammad-Subhan-Rauf/webscraper/main/newsasker.py",
+      "dependencies": ["InquirerPy", "requests"]
+    },
+    
+
   },
   "personas": {
      "Muhammad-Subhan-Rauf/Black_Beard":{
