@@ -17,7 +17,7 @@
       "description": "A simple tool to get the latest news",
       "url": "https://raw.githubusercontent.com/Muhammad-Subhan-Rauf/webscraper/main/newsasker.py",
       "dependencies": ["InquirerPy", "requests"]
-    },
+    }
     
 
   },
