@@ -20,12 +20,18 @@
     }
     
 
+
   },
   "personas": {
      "Muhammad-Subhan-Rauf/Black_Beard":{
        "author": "Muhammad-Subhan-Rauf",
        "description" : "A persona that talks like a pirate",
        "url" : "https://raw.githubusercontent.com/Muhammad-Subhan-Rauf/my_personas/main/Black_Beard.json"
+     },
+    "Muhammad-Subhan-Rauf/db_guru":{
+       "author": "Muhammad-Subhan-Rauf",
+       "description" : "A persona that is an expert in sql",
+       "url" : "https://raw.githubusercontent.com/Muhammad-Subhan-Rauf/my_personas/main/db_guru.json"
      }
   }
 }
